@@ -14,6 +14,9 @@ export default function Projects() {
                     <p className='lg:w-2/3 mx-auto leading-relaxed text-base text-violet-300'>
                         Take a look around in my portfolio to see my projects.  I'm sure you will find something you will like.
                     </p>
+                    <p className='lg:w-2/3 mx-auto leading-relaxed text-base text-violet-300'>
+                        Please also checkout my <a href='https://github.com/karicheslock' alt='Github portfolio for Kari' className='text-blue-500 hover:font-bold'>GitHub profile</a> and view my collection of repositories.  I have many projects in progress that will be published soon.
+                    </p>
                 </div>
                 <div className='flex flex-wrap -m-4'>
                     {projects.map((projects) => (
