@@ -1,5 +1,3 @@
-import Blogpost1 from "./components/blogposts/Blogpost1"
-
 export const projects = [
     {
         title: 'Blog Builder',

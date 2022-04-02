@@ -1,6 +1,5 @@
 import './index.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import {blogposts} from './data';
 import Dashboard from './components/Dashboard';
 import Blogpost1 from './components/blogposts/Blogpost1';
 
