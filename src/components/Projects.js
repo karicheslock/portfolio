@@ -11,7 +11,7 @@ export default function Projects() {
                     <h1 className='sm:text-4xl text-3xl font-medium title-font mb-4 text-white'>
                         <span className='text-blue-500'>Apps</span> I've Built
                     </h1>
-                    <p className='lg:w-2/3 mx-auto leading-relaxed text-base text-violet-300'>
+                    <p className='lg:w-2/3 mx-auto leading-relaxed text-base text-violet-300 mb-4'>
                         Take a look around in my portfolio to see my projects.  I'm sure you will find something you will like.
                     </p>
                     <p className='lg:w-2/3 mx-auto leading-relaxed text-base text-violet-300'>

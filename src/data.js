@@ -18,7 +18,7 @@ export const projects = [
     {
         title: 'Upvote-Downvote Mini Reddit Clone',
         subtitle: 'React, Chakra UI, Firebase',
-        description: 'An app for adding posting and upvoting or downvoting them',
+        description: 'An app for adding posts and upvoting or downvoting them',
         image: '../images/upvote-downvote.png',
         link: 'https://delightful-dusk-6d9f51.netlify.app/'
     }
